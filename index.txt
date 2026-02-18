@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <title>Pagina Responsiva</title>
+  <link rel="stylesheet" href="styleRD.css">
+</head>
+<body>
+  <!-- ENCABEZADO DE LA PAGINA -->
+  <header>
+    <div class="container">
+      <p class="logo">Nuestra Historia</p>
+      <!-- Apartado de navegacion del encabezado -->
+      <nav>
+        <a href="#section-1">Solo tu</a>
+        <a href="#section-2">El tiempo</a>
+        <a href="#section-3">Ese momento</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Para indicar que aqui existe contenido releacionado tematicamente -->
+  <section id="hero">
+    <h1>"No puedo imaginar un futuro<br>en el que no estes" </h1>
+  </section>
+
+  <section id="section-1">
+    <div class="container">
+      <div class="img-container"></div>
+      <div class="txt-section1">
+        <h2>Siempre te escojere</h2>
+        <p>Gracias por compartir tus dias conmigo Lucerito, cada momento que vivimos son tan calidos. Cuando estoy contigo siento que todo esta bien, se que estas para levantarme esos bajos animos. Quiero que sepas que mi corazoncito siempre te va a pertencer.
+        Eres esa parte de mi alma que no sabia que me faltaba.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section id="section-2">
+    <div class="container">
+      <h2>Que rapido pasa el tiempo</h2>
+      <div class="programas">
+        <div class="carta">
+          <h3>1° año</h3>
+          <p>Cada momento que pasabamos juntos era tan nuevo, descubriamos y nos atreviamos a nuevas cosas... Nos descubriamos tanto personal, como emocionalmente... Y obvio fisico jiji. Eramos una explocion de amor, incluso el acercamiento tan minimo era demasiado para nosotros.</p>
+        </div>
+        <div class="carta">
+          <h3>2° año</h3>
+          <p>Se notaba que nuestra meta era formar algo mas que lo pasajero, queriamos formar un futuro juntos, maduramos mucho como pareja, en el proceso aprendimos que estaba mal y lo solucionabamos. Me atrevo a decir que fue el año mas duro.</p>
+          
+        </div>
+        <div class="carta">
+          <h3>3° año</h3>
+          <p>Formamos un amor muy solido, calido, y sobre todo respetuoso. Siempre estabamos para cada uno, el tiempo pasa demasiado rapido, pero supimos afrontar la mas minima desconformidad, ya que sabemos que nuestro amor no es solo una etapa en el que coincidimos por un momento, si no que es el inicio de nuestra historia.</p>
+          
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="section-3">
+    <div class="container">
+      <h2>Pero que magico fue...</h2>
+      <p>Ese dia fue muy unico para mi, ya que tenia tiempo que no iba a un lugar con un paisaje y ambiente tan relajante, y mas contigo... Mientras ambos platicabamos y jugabamos, mirabamos el atardecer con tanta tranquilidad, gracias por llevarme ese dia. Me hiciste olvidarme de mis preocupaciones en ese momento.</p>
+    </div>
+  </section>
+
+  <section id="section-4">
+    <h2>Te amo Lucerito... Eres mi sol en mis  dias nublados.</h2>
+    <form action="https://youtu.be/Sl0-Y1cHFBI?si=anOFOv71CuNxz2Fk">
+      <button>HAZ CLICK</button>
+    </form>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; Rodrigo Miranda Diaz</p>
+    </div>
+    </footer>
+</body>
+</html>
